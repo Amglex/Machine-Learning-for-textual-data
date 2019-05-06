@@ -48,7 +48,7 @@ pip-delete-this-directory.txt
 
 # exclude data and model from source control by default
 /data/
-/model/
+/model*
 
 # Mac OS-specific storage files
 .DS_Store
